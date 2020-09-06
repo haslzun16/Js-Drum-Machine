@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+body {
+  background-color: purple;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.display {
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  width: 360px;
+  border-radius: 4px;
+}
+.drum-pad {
+  background-color: purple;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 60px;
+  border-radius: 4px;
+  border: solid 2px black;
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
+.display h1 {
+  display: block;
+  width: 100%;
+}
