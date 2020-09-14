@@ -1,6 +1,6 @@
 # Js-Drum-Machine
 
-![Drum-Machine](.gif)
+![](Drum-Machine.gif)
 
 ## What I created
 
